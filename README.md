@@ -1,2 +1,13 @@
-# D-Drive-Using-Blockchain-Technology
-Developed a de-centrealised storage system (D-Drive) using Blockchain Technology and IPFS enabling secure and distributed data storage.Implemented flie upload,access sharing and acces revocation features,allowing users to securely manage and control file permissions in de-centralised environment.Deployed smart contracts on Etherum using HardHat.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
